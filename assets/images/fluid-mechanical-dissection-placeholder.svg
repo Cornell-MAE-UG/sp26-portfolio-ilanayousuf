@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Fluid-Mechanical Dissection placeholder</title>
+  <desc id="desc">A neutral placeholder for a project image to be added later.</desc>
+  <rect width="600" height="600" fill="#f7f8fa" />
+  <rect x="40" y="40" width="520" height="520" rx="8" fill="none" stroke="#686d85" stroke-width="2" stroke-dasharray="10 10" />
+  <text x="300" y="310" text-anchor="middle" fill="#3a3f58" font-family="Arial, sans-serif" font-size="30">Image coming soon</text>
+</svg>
